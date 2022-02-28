@@ -35,8 +35,7 @@ Survey Code List
    - Structure ID of Structure or Feature Being Surveyed. SURVSTR_ID corresponds to the Structure ID field in the Data Capture Technical Reference where the first three characters represent the stream reach name abbreviation, followed by an underscore and then the stream station at which the feature is found.
  * - SURV_CODE
    - R
-   - Survey Code Describing the Surveyed Feature Type. SURV_CODE corresponds to the Survey Code field in the Data Capture Technical Reference. Information about the type of feature being surveyed is input into this field, for example “TOS” for “Toe of Slope”. Default survey codes and descriptions are provided as best practice information
-in the Data Capture Technical Reference.
+   - Survey Code Describing the Surveyed Feature Type. SURV_CODE corresponds to the Survey Code field in the Data Capture Technical Reference. Information about the type of feature being surveyed is input into this field, for example “TOS” for “Toe of Slope”. Default survey codes and descriptions are provided as best practice informationin the Data Capture Technical Reference.
  * - STRUCTDESC
    - R
    - Description of the structure or feature being surveyed, for example “Cross Section 2”. STRUCTDESC corresponds to the Structure Description field in the Data Capture Technical Reference.
