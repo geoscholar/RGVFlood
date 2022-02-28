@@ -27,10 +27,11 @@ Survey Code List
  * - Attribute
    - Require/ Required if Applicable	
    - Description
- * - 
+ * - DFIRM_ID
    - R
-   - 
- * - 
+   - Flood Risk Project Identifier. For a single-jurisdiction Flood Risk Project, the value is composed of the two-digit State FIPS code and the four-digit FEMA CID code (e.g., 480001). For a countywide Flood Risk Project, the value is composed of the two-digit State FIPS code, the three-digit county FIPS code and the letter “C” (e.g., 48107C). Within
+each FIRM Database, the DFIRM_ID value will be identical.
+ * - VERSION_ID
    - R
    - 
  * - 
@@ -40,9 +41,8 @@ Survey Code List
    - R
    - 
  
-DFIRM_ID	R	Flood Risk Project Identifier. For a single-jurisdiction Flood Risk Project, the value is composed of the two-digit State FIPS code and the four-digit FEMA CID code (e.g., 480001). For a countywide Flood Risk Project, the value is composed of the two-digit State FIPS code, the three-digit county FIPS code and the letter “C” (e.g., 48107C). Within
-each FIRM Database, the DFIRM_ID value will be identical.
-VERSION_ID	R	Version Identifier. Identifies the product version and relates the feature to standards according to how it was created.
+	R	
+	R	Version Identifier. Identifies the product version and relates the feature to standards according to how it was created.
 SURVPT_ID	R	Primary key for table lookup. Assigned by table creator.
 SURVSTR_ID	R	Structure ID of Structure or Feature Being Surveyed. SURVSTR_ID corresponds to the Structure ID field in the Data Capture Technical Reference where the first three characters represent the stream reach name abbreviation, followed by an underscore and then the stream station at which the feature is found.
 
