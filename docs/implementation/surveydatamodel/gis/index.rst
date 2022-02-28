@@ -15,9 +15,12 @@ Data will be collected using FEMA Data Capture- Workflow Details.
 
 Survey Code List
 -----------------
-.. list-table:: Name
+.. list-table:: 
  :header-rows: 1
   
+ * - Code: 
+   - Description	
+   - Field Survey Location
  * - Code: 
    - Description	
    - Field Survey Location
