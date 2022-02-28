@@ -21,48 +21,80 @@ Survey Code List
  * - Attribute
    - Required
    - Description
+   - Type
+   - Length
  * - DFIRM_ID
    - R
    - Flood Risk Project Identifier. For a single-jurisdiction Flood Risk Project, the value is composed of the two-digit State FIPS code and the four-digit FEMA CID code (e.g., 480001). For a countywide Flood Risk Project, the value is composed of the two-digit State FIPS code, the three-digit county FIPS code and the letter “C” (e.g., 48107C). Within each FIRM Database, the DFIRM_ID value will be identical.
+   - Text
+   - 6
  * - VERSION_ID
    - R
    - Version Identifier. Identifies the product version and relates the feature to standards according to how it was created.
+   - Text
+   - 6
  * - SURVPT_ID
    - R
    - Primary key for table lookup. Assigned by table creator.
+   - Text
+   - 6
  * - SURVSTR_ID
    - R
    - Structure ID of Structure or Feature Being Surveyed. SURVSTR_ID corresponds to the Structure ID field in the Data Capture Technical Reference where the first three characters represent the stream reach name abbreviation, followed by an underscore and then the stream station at which the feature is found.
+   - Text
+   - 6
  * - SURV_CODE
    - R
    - Survey Code Describing the Surveyed Feature Type. SURV_CODE corresponds to the Survey Code field in the Data Capture Technical Reference. Information about the type of feature being surveyed is input into this field, for example “TOS” for “Toe of Slope”. Default survey codes and descriptions are provided as best practice informationin the Data Capture Technical Reference.
+   - Text
+   - 6
  * - STRUCTDESC
    - R
    - Description of the structure or feature being surveyed, for example “Cross Section 2”. STRUCTDESC corresponds to the Structure Description field in the Data Capture Technical Reference.
+   - Text
+   - 6
  * - NORTHING
    - R
    - Northing location of the survey point, in the projection specified.
+   - Text
+   - 6
  * - EASTING
    - R
    - Easting location of the survey point, in the projection specified.
+   - Text
+   - 6
  * - ELEV
    - R
    - Elevation of the survey point, in the vertical datum and elevation units specified.
+   - Text
+   - 6
  * - ELEV_UNIT
    - R
    - Elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet. Acceptable values for this field are listed in the D_Length_Units table.
+   - Text
+   - 6
  * - H_DATUM	R
    - R
    - Horizontal Datum. This is the horizontal datum used for the survey points. NAD83 is the preferred horizontal datum Acceptable values for this field are listed in the D_Horiz_Datum table.
+   - Text
+   - 6
  * - V_DATUM
    - R
    - Vertical Datum. This is the vertical datum of the surveyed points. The vertical datum describes the reference surface from which elevation of the surveyed points is measured. Normally, this would be North American Vertical Datum of 1988 for new studies. Acceptable values for this field are listed in the D_V_Datum table.
+   - Text
+   - 6
  * - PROJECTION
    - R
    - Projection of the Surveyed Points. Acceptable values for this field are listed in the D_Projection table.
+   - Text
+   - 6
  * - PROJ_ZONE
    - R
    - Projection Zone associated with the surveyed points. Acceptable values for this field are listed in the D_Projzone table.
+   - Text
+   - 6
  * - PROJ_UNIT
    - R
    - Horizontal Projection Unit associated with the surveyed points. When using map projections and coordinate systems, there is a unit associated with the projection defined in the PROJECTION field such as US SURVEY FEET, etc. This field is populated based on the projection selected for the Final hardcopy map production Acceptable values for this field are listed in the D_Proj_Unit table.
+   - Text
+   - 6
