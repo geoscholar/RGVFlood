@@ -19,7 +19,7 @@ Survey Code List
  :header-rows: 1
   
  * - Attribute
-   - Require 
+   - Required
    - Description
  * - DFIRM_ID
    - R
@@ -27,3 +27,43 @@ Survey Code List
  * - VERSION_ID
    - R
    - Version Identifier. Identifies the product version and relates the feature to standards according to how it was created.
+ * - SURVPT_ID
+   - R
+   - Primary key for table lookup. Assigned by table creator.
+ * - SURVSTR_ID
+   - R
+   - Structure ID of Structure or Feature Being Surveyed. SURVSTR_ID corresponds to the Structure ID field in the Data Capture Technical Reference where the first three characters represent the stream reach name abbreviation, followed by an underscore and then the stream station at which the feature is found.
+ * - SURV_CODE
+   - R
+   - Survey Code Describing the Surveyed Feature Type. SURV_CODE corresponds to the Survey Code field in the Data Capture Technical Reference. Information about the type of feature being surveyed is input into this field, for example “TOS” for “Toe of Slope”. Default survey codes and descriptions are provided as best practice information
+in the Data Capture Technical Reference.
+ * - STRUCTDESC
+   - R
+   - Description of the structure or feature being surveyed, for example “Cross Section 2”. STRUCTDESC corresponds to the Structure Description field in the Data Capture Technical Reference.
+ * - NORTHING
+   - R
+   - Northing location of the survey point, in the projection specified.
+ * - EASTING
+   - R
+   - Easting location of the survey point, in the projection specified.
+ * - ELEV
+   - R
+   - Elevation of the survey point, in the vertical datum and elevation units specified.
+ * - ELEV_UNIT
+   - R
+   - Elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet. Acceptable values for this field are listed in the D_Length_Units table.
+ * - H_DATUM	R
+   - R
+   - Horizontal Datum. This is the horizontal datum used for the survey points. NAD83 is the preferred horizontal datum.
+Acceptable values for this field are listed in the D_Horiz_Datum table.
+ * -
+   - R
+   -
+ * -
+   - R
+   -
+
+	
+ 
+ 
+
