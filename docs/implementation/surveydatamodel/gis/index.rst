@@ -12,7 +12,6 @@ Station Survey GIS Data Model
 .. list-table:: 
  :header-rows: 1
 
-
 * - Field Name	
   - Require/ Required if Applicable	
   - Description
