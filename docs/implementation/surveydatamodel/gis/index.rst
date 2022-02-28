@@ -13,11 +13,8 @@ TEST
 This test
 
 
-Survey Code List
------------------
 .. list-table:: Name
  :header-rows: 1
-  
  * - Code: 
    - Description	
    - Field Survey Location
