@@ -53,16 +53,16 @@ Survey Code List
    - Elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet. Acceptable values for this field are listed in the D_Length_Units table.
  * - H_DATUM	R
    - R
-   - Horizontal Datum. This is the horizontal datum used for the survey points. NAD83 is the preferred horizontal datum.
-Acceptable values for this field are listed in the D_Horiz_Datum table.
- * -
+   - Horizontal Datum. This is the horizontal datum used for the survey points. NAD83 is the preferred horizontal datum Acceptable values for this field are listed in the D_Horiz_Datum table.
+ * - V_DATUM
    - R
-   -
- * -
+   - Vertical Datum. This is the vertical datum of the surveyed points. The vertical datum describes the reference surface from which elevation of the surveyed points is measured. Normally, this would be North American Vertical Datum of 1988 for new studies. Acceptable values for this field are listed in the D_V_Datum table.
+ * - PROJECTION
    - R
-   -
-
-	
- 
- 
-
+   - Projection of the Surveyed Points. Acceptable values for this field are listed in the D_Projection table.
+ * - PROJ_ZONE
+   - R
+   - Projection Zone associated with the surveyed points. Acceptable values for this field are listed in the D_Projzone table.
+ * - PROJ_UNIT
+   - R
+   - Horizontal Projection Unit associated with the surveyed points. When using map projections and coordinate systems, there is a unit associated with the projection defined in the PROJECTION field such as US SURVEY FEET, etc. This field is populated based on the projection selected for the Final hardcopy map production Acceptable values for this field are listed in the D_Proj_Unit table.
