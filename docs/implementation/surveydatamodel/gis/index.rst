@@ -21,15 +21,14 @@ Survey Code List
  * - Code: 
    - Description	
    - Field Survey Location
- * - Code: 
-   - Description	
-   - Field Survey Location
  * - Attribute
    - Require/ Required if Applicable	
    - Description
  * - DFIRM_ID
    - R
    - Flood Risk Project Identifier. For a single-jurisdiction Flood Risk Project, the value is composed of the two-digit State FIPS code and the four-digit FEMA CID code (e.g., 480001). For a countywide Flood Risk Project, the value is composed of the two-digit State FIPS code, the three-digit county FIPS code and the letter “C” (e.g., 48107C). Within each FIRM Database, the DFIRM_ID value will be identical.
+ 
+ 
  * - VERSION_ID
    - R
    - Version Identifier. Identifies the product version and relates the feature to standards according to how it was created.
