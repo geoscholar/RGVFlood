@@ -52,17 +52,17 @@ Site
    - Description of the structure or feature being surveyed, for example “Cross Section 2”. STRUCTDESC corresponds to the Structure Description field in the Data Capture Technical Reference.
    - Text
    - 254
- * - Latitude
+ * - LATITUDE
    - R
    - Latitude location of the survey point, in the horizontial datum.
    - Double
    - Default
- * - Longitude
+ * - LONGIGTUDE
    - R
    - Easting location of the survey point, in the horizontial datum.
    - Double
    - Default
- * - Ellipsoid Height
+ * - ELPSDH
    - R
    - Ellispoid Height elevation of the survey point, in the geodetic datum and elevation units specified.
    - Double
@@ -72,19 +72,19 @@ Site
    - Ellispoid Height elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet, but meters are accepted
    - Text
    - 16
- * - Latitude RMS
+ * - LAT_RMS
    - R
    - Latitude RMS of the survey point.
    - Double
    - Default
- * - Longitude RMS
+ * - LON_RMS
    - R
-   - Easting location of the survey point, in the projection specified.
+   - Longitude RMS of the survey point.
    - Double
    - Default
- * - Ellipsoid Height
+ * - ELPSDHT_RMS
    - R
-   - Ellispoid Height elevation of the survey point, in the geodetic datum and elevation units specified.
+   - Ellispoid Height elevation RMS of the survey point.
    - Double
    - Default
  * - ELPSDHT_UNIT
