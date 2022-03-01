@@ -92,3 +92,18 @@ Site
    - Ellispoid Height elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet, but meters are accepted
    - Text
    - 16
+ * - NORTHING
+   - R
+   - Northing location of the survey point, in the projection specified.
+   - Double
+   - Default
+ * - EASTING
+   - R
+   - Easting location of the survey point, in the projection specified.
+   - Double
+   - Default
+ * - ELEV
+   - R
+   - Elevation of the survey point, in the vertical datum and elevation units specified.
+   - Double
+   - Default
