@@ -1,4 +1,4 @@
-Survey Data Model Manual
+Geospatial Data Model Manual
 ======================
 The purpose of this Survey Data Model Manual is to provide guidance preparing digital survey databases to be delievered to RATES partners.  This is not intended to specify the process used, but to present standards and requirements of outpusts and deliverables.
 
