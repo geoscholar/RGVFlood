@@ -50,7 +50,7 @@ Drawying Layers
 ---------------
 CAD Layer Guidelines apply to DWG files regardless of the software used (Civil 3D, Carlson, Intellicad, etc).  To maintain graphical fidelity, legibility, and usability of digital drawings, assign various and contrasting  colors, linetypes, and lineweights for CAD layers to enable visual on-screen identification and/or color  printing. Specific color numbers, linetypes, or lineweights for certain layers are not mandated. See Drawing Template for more details.
 
-Drafing Conventions
+Drafting Conventions
 --------------------
 Scaled views for drawings must consist only of scales identified in the Engineering Common Scales List.  All scaled views represented on a sheet must have a corresponding graphic scale on the same  sheet. Graphic scales may be included as part of the title mark as indicated and  be placed at the bottom right hand corner of the sheet. Non-Scaled view (e.g., perspectives)  may be used as needed.
 
