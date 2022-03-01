@@ -69,7 +69,7 @@ Site
    - Default
  * - ELPSDHT_UNIT
    - R
-   - Ellispoid Height elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet, but meters are accepted
+   - Ellispoid Height elevation Units in meters.
    - Text
    - 16
  * - LAT_RMS
@@ -87,9 +87,9 @@ Site
    - Ellispoid Height elevation RMS of the survey point.
    - Double
    - Default
- * - ELPSDHT_UNIT
+ * - GEODETIC_RMS_UNIT
    - R
-   - Ellispoid Height elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet, but meters are accepted
+   - Latitude, Longitude and Ellispoid Height RMS units should be in meters.
    - Text
    - 16
  * - NORTHING
