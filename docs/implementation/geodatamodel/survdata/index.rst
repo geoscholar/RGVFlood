@@ -30,148 +30,148 @@ Survey Code List
 .. list-table:: 
  :header-rows: 1
   
- * - Code: 
+ * - Code 
    - Description	
    - Field Survey Location
- * - ABT:	
+ * - ABT	
    - Abutment	
    - Face/foot of abutment of bridge.
- * - BOCEDS:	
+ * - BOCEDS	
    - Back of Curb Edge Down Stream	
    - Where slope meets top of culvert or top of headwall above culvert centerline on downstream end for determining outlet projection.
- * - BOCEUS:	
+ * - BOCEUS	
    - Back of Curb Edge Up Stream	
    - Where slope meets top of culvert or top of headwall above culvert centerline on upstream end for determining inlet projection.
- * - BRCL:	
+ * - BRCL	
    - Bridge Centerline	
    - Centerline of bridge in overtopping section.
- * - CH:	
+ * - CH	
    - Channel
    - Stream bottom between Toe of Slope (TOS) shots.
- * - CHCL:	
+ * - CHCL	
    - Channel Centerline	
    - Center of the main flow area of the stream.
- * - CUL:	
+ * - CUL	
    - Culvert Shape	
    - Multiple CUL codes can be used to define shapes for culverts, especially irregular shapes.
- * - CULCL:	
+ * - CULCL	
    - Culvert Centerline	
    - Centerline of culvert in overtopping section.
- * - CULDSCR:	
+ * - CULDSCR	
    - Culvert Down Stream Crown	
    - The highest point of the downstream end of a culvert.
- * - CULDSINV:	
+ * - CULDSINV	
    - Culvert Down Stream Invert	
    - The lowest point of the downstream end of a culvert.
- * - CULUSCR:	
+ * - CULUSCR	
    - Culvert Up Stream Crown	
    - The highest point of the upstream end of a culvert.
  * - CULUSINV:	
    - Culvert Up Stream Invert	
    - The lowest point of the upstream end of a culvert.
- * - DAMCL:	
+ * - DAMCL
    - Dam Centerline	
    - The high point of a dam.
- * - DH:	
+ * - DH	
    - Dune Heel	
    - Landward toe of primary frontal dune.
- * - DP:	
+ * - DP	
    - Dune Peak	
    - Peak or rear shoulder of primary frontal dune.
- * - DT:	
+ * - DT	
    - Dune Toe	
    - Seaward toe of primary frontal dune.
- * - EOB:	
+ * - EOB	
    - End of Bridge	
    - End of the bridge deck at the road/rail elevation.
- * - ERM:	
+ * - ERM	
    - Elevation Reference Mark	
    - Permanent elevation monument. An ERM must be set at every structure and at cross sections if they are more than half a mile to the nearest structure.
- * - FBCL:	
+ * - FBCL	
    - Foot Bridge Centerline	
    - Centerline of non-vehicular bridges in overtopping section.
- * - GDR:	
+ * - GDR	
    - Guardrail	
    - Top of guardrail at ends to define limit and height.
- * - GDRBOT:	
+ * - GDRBOT	
    - Guardrail at Bottom	
    - Base of guardrail at ends to define and height.
- * - GR:	
+ * - GR
    - Ground	
    - On ground to show elevation changes, used outside Top of Bank (TOB) shots, between TOB and TOS, and to indicate islands or bars within the channel. When used in  channel cross-section surveys, a GR point must be placed at least 15 feet past the top of bank or until there is no overhead obstruction from foliage. If overhead foliage is too  thick for the entire overbank area, full valley cross sections should be a consideration for modeling.
- * - HWMARK:	
+ * - HWMARK	
    - High Water Mark	
    - Historical high water marks-mud/stain lines, drift lines, parole evidence, etc.
  * - INVDS:	
    - Invert Down Stream	
    - Channel invert at downstream end of structure, used to define paved aprons.
- * - INVUS:	
+ * - INVUS
    - Invert Up Stream	
    - Channel invert at upstream end of structure, used to define aprons.
- * - LC:	
+ * - LC
    - Low Chord	
    - Change in bridge deck thickness, usually at center of a pile row or pier. Multiple low chord codes can be used to define irregular shaped bridges such as arched bridges  with the explanation of the multiple LC shots shown in the sketch for the structure.
- * - LCDSL:	
+ * - LCDSL
    - Low Chord Down Stream Left	
    - Bottom of deck and beam at the downstream left corner of bridge¹.
- * - LCDSR:	
+ * - LCDSR
    - Low Chord Down Stream Right	
    - Bottom of deck and beam at the downstream right corner of bridge¹.
- * - LCUSL:	
+ * - LCUSL	
    - Low Chord Up Stream Left	
    - Bottom of deck and beam at the upstream left corner of bridge¹.
- * - LCUSR:	
+ * - LCUSR
    - Low Chord Up Stream Right	
    - Bottom of deck and beam at the upstream right corner of bridge¹.
- * - LV:	
+ * - LV
    - Levee	
    - The centerline of the top of a levee.
- * - PIER:	
+ * - PIER	
    - Pier	
    - The up and downstream centerline of a pier.
- * - PILE:	
+ * - PILE	
    - Pile	
    - The up and downstream centerline of a row of piles.
- * - RAIL:	
+ * - RAIL	
    - Rail	
    - Top of rail to define limits and height of railing on structures.
- * - RAILBOT:	
+ * - RAILBOT	
    - Rail Bottom	
    - Bottom of rail to define limits and height of railing on structures.
- * - RDCL:	
+ * - RDCL
    - Road Centerline	
    - The centerline on a crowned road or the high side of a road with super elevation.
- * - SFLOOR:	
+ * - SFLOOR	
    - Sea Floor	
    - Shots either direct or combination of bathymetric and conventional/Global Positioning System (GPS) survey of coastal area which can be collected during structure  or transect survey.
- * - TEMP:	
+ * - TEMP	
    - Temporary Control Point	
    - Temporary control point used for data collection of cross sections and structures. TEMPs are established when ERMs are not present.
- * - TOB:	
+ * - TOB	
    - Top of Bank	
    - Top of bank in a multiple channel scenario.
- * - TOBL:	
+ * - TOBL	
    - Top of Bank Left	
    - Break point from over bank to channel on the left side when looking downstream.
- * - TOBR:	
+ * - TOBR
    - Top of Bank Right	
    - Break point from over bank to channel on the right side when looking downstream.
- * - TOD:	
+ * - TOD
    - Top of Deck	
    - To show an irregular arch or dip in a bridge deck between the bridge corner shots.
- * - TODDSL:	
+ * - TODDSL	
    - Top of Deck Down Stream Left	
    - Downstream left corner of a bridge on the deck directly above the LCDSL shot to measure deck thickness and width¹.
- * - TODDSR:	
+ * - TODDSR	
    - Top of Deck Down Stream Right	
    - Downstream right corner of a bridge on the deck directly above the LCDSR shot to measure deck thickness and width¹.
- * - TODUSL:	
+ * - TODUSL	
    - Top of Deck Up Stream Left	
    - Upstream left corner of a bridge on the deck directly above the LCUSL shot to measure deck thickness and width¹.
- * - TODUSR:	
+ * - TODUSR	
    - Top of Deck Up Stream Right	
    - Upstream right corner of a bridge on the deck directly above the LCUSR shot to measure deck thickness and width¹.
- * - TOS:	
+ * - TOS	
    - Toe of Slope	
    - The toe in a multiple channel scenario.
  * - TOSL	
