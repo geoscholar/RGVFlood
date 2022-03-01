@@ -2,9 +2,9 @@ Goals of Geospatial Data Model
 ==========================
 
 RATES will utilize Geospatial Data Model to provide stakeholders with a greater understanding of how data models areas are:
-- Planning
-- Collecting
-- Sharing
+ - Planning
+ - Collecting
+ - Sharing
 
 This technical reference on Geospatial Data Model is not intended to specify in-process compilation or digitizing procedures but to present standards and requirements for outputs and deliverables.  The REON Manual and the Surveying Manual shall be referenced outside this document for collection standards for some aspects of digital Geospatial Data.
 
