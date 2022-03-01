@@ -106,4 +106,10 @@ Site
    - R
    - Elevation of the survey point, in the vertical datum and elevation units specified.
    - Double
-   - Default
+   - Default 
+ * - ELEV_UNIT
+   - R
+   - Elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet. Acceptable values for this field are listed in the D_Length_Units table.
+   - Text
+   - 16
+
