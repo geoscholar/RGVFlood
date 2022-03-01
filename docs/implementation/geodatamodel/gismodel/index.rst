@@ -1,4 +1,4 @@
-Geographic Information System (GIS)
+Geographic Information System (GIS) Data Model
 ===================================
 
 The required GNSS/GIS work shall result in a fully integrated GIS/GNSS system with covering entire developed portion of the cemetery. The GIS elements that are created shall be sufficient to allow the display of the cemetery with improvements visible on ArcGIS mapping software.
