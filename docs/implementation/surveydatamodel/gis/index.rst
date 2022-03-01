@@ -13,7 +13,7 @@ Data will be collected using FEMA Data Capture- Workflow Details.
 
 
 
-Survey Code List
+Survey Geosptial Data
 -----------------
 .. list-table:: 
  :header-rows: 1
@@ -53,6 +53,48 @@ Survey Code List
    - Description of the structure or feature being surveyed, for example “Cross Section 2”. STRUCTDESC corresponds to the Structure Description field in the Data Capture Technical Reference.
    - Text
    - 254
+  * - Latitude
+   - R
+   - Latitude location of the survey point, in the horizontial datum.
+   - Double
+   - Default
+ * - Longitude
+   - R
+   - Easting location of the survey point, in the horizontial datum.
+   - Double
+   - Default
+ * - Ellipsoid Height
+   - R
+   - Ellispoid Height elevation of the survey point, in the geodetic datum and elevation units specified.
+   - Double
+   - Default
+ * - ELPSDHT_UNIT
+   - R
+   - Ellispoid Height elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet, but meters are accepted
+   - Text
+   - 16
+  * - Latitude RMS
+   - R
+   - Latitude RMS of the survey point.
+   - Double
+   - Default
+ * - Longitude RMS
+   - R
+   - Easting location of the survey point, in the projection specified.
+   - Double
+   - Default
+ * - Ellipsoid Height
+   - R
+   - Ellispoid Height elevation of the survey point, in the geodetic datum and elevation units specified.
+   - Double
+   - Default
+ * - ELPSDHT_UNIT
+   - R
+   - Ellispoid Height elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet, but meters are accepted
+   - Text
+   - 16
+ 
+ 
  * - NORTHING
    - R
    - Northing location of the survey point, in the projection specified.
