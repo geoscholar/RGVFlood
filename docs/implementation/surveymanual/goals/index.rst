@@ -38,4 +38,4 @@ Information contained in this Survey Manual is has been adopted from industry st
     
 Where standards and requirements contained and described in this manual are more comprehensive you are refered to the original standard documents.
 
-It shall be duty of each Registered Professional Engineer or Land Surveyor to counsel with RATES to determine the purpose of any surveying service so as to be certain the needs of the RATES are met. The specific purpose of a survey will determined by the service needed.
+It shall be duty of each Registered Professional Engineer or Land Surveyor to counsel with RATES to determine the purpose of any engineering or surveying service so as to be certain the needs of the RATES are met. The specific purpose of a survey will determined by the service needed.
