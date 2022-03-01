@@ -73,6 +73,10 @@ Survey Geosptial Data
    - Ellispoid Height elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet, but meters are accepted
    - Text
    - 16
+  
+  
+  
+  
   * - Latitude RMS
    - R
    - Latitude RMS of the survey point.
