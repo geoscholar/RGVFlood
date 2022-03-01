@@ -29,5 +29,5 @@ The file should be developed in a format that includes data that correspond to t
 
 When gathering survey data for a flood study, it is best to organize data collection activities prior to initiating survey activities in the field. As part of the reconnaissance process, Mapping Partners should review all the stream names to determine the best way to name the files and streams. 
 
-Before collecting survey data, shall use the  naming and location for each hydraulic feature to be surveyed for Project Names.
+Before collecting survey data, contributors shall use the  naming and location for each hydraulic feature to be surveyed for Project Names.
 
