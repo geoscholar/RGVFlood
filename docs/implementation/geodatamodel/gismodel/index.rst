@@ -1,5 +1,9 @@
-Geographic Information System (GIS) Survey Data Model
+Geospatial Data Model
 ===================================
+
+
+GIS Data Model
+--------------
 
 The required GNSS/GIS work shall result in a fully integrated GIS/GNSS system with covering entire developed portion of the cemetery. The GIS elements that are created shall be sufficient to allow the display of the cemetery with improvements visible on ArcGIS mapping software.
 
@@ -12,7 +16,9 @@ The Geospatial Data shall represent the feature being identified to the level of
 Data will be collected using FEMA Data Capture- Workflow Details.
 
 
-GIS Survey Data Model
+
+
+Geospatial Survey Data Model
 -----------------
 .. list-table:: 
  :header-rows: 1
