@@ -25,9 +25,9 @@ This document versions are maintained an authorized as follows:
 
       introduction/index.rst
       goals/index.rst
-      geospatialdata/index.rst
-      drawing/index.rst
-      gis/idex.rst
+      survdata/index.rst
+      gismodel/index.rst
+      drawings/index.rst
       reporting/index.rst
       glossary/index.rst
       
@@ -41,9 +41,9 @@ This document versions are maintained an authorized as follows:
 
       introduction/index.rst
       goals/index.rst
-      geospatialdata/index.rst
-      drawing/index.rst
-      gis/index.rst
+      survdata/index.rst
+      gismodel/index.rst
+      drawings/index.rst
       reporting/index.rst
       glossary/index.rst
 
