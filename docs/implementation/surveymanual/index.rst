@@ -27,7 +27,6 @@ This document versions are maintained an authorized as follows:
 
       introduction/index.rst
       goals/index.rst
-      adopted/index.rst
       geodetic/index.rst
       stationcontrol/index.rst
       stationsurvey/index.rst
@@ -46,7 +45,6 @@ This document versions are maintained an authorized as follows:
 
       introduction/index.rst
       goals/index.rst
-      adopted/index.rst
       geodetic/index.rst
       stationcontrol/index.rst
       stationsurvey/index.rst
