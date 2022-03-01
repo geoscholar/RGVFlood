@@ -21,7 +21,7 @@ Geospatial Accuracy
 
 The Geospatial Data shall represent the feature being identified to the level of 1 centimeter and 2-centimeter accuracy for the horizontal and vertical coordinate, respectively. A geodatabase template for all required features and associated data will be provided to, and be used.
 
-Data will be collected using FEMA Data Capture- Workflow Details.
+Data will be collected using modified FEMA Data Capture- Workflow Details.
 
 
 
