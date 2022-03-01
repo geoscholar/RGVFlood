@@ -118,7 +118,7 @@ Geospatial Survey Data Model
    - Elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet. Acceptable values for this field are listed in the D_Length_Units table.
    - Text
    - 16
- * - H_DATUM	R
+ * - H_DATUM	
    - R
    - Horizontal Datum. This is the horizontal datum used for the survey points. NAD83 is the preferred horizontal datum Acceptable values for this field are listed in the D_Horiz_Datum table.
    - Text
