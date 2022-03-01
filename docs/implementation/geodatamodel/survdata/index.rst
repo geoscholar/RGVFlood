@@ -10,7 +10,7 @@ The data collection for the new project work areas shall be consistent for the s
 File Nameing:
 -------------
 
-Survey data files shall be organized and named based on the Gauge Station Name or Steam Name with Date. TWB1_02-25-2022.CSV 
+Survey data files shall be organized and named based on the Gauge Station Name or Stream Name Hydrologic Cross Section Number with Date. For example, for the main channel of Swift Creek there are three locations surveyed and numbered as 100, 200, and 300. SWIFTCREEK_100_02-28-2022.CSV  TWB1_02-25-2022.CSV 
 
 Survey data files should be stored in a comma delimited text file, spreadsheet, or database format and include all hydraulic feature data and benchmarks surveyed for that stream. 
 
