@@ -112,4 +112,13 @@ Site
    - Elevation Units. This unit indicates the measurement system used for the survey points. Normally, this would be feet. Acceptable values for this field are listed in the D_Length_Units table.
    - Text
    - 16
-
+* - H_DATUM	R
+   - R
+   - Horizontal Datum. This is the horizontal datum used for the survey points. NAD83 is the preferred horizontal datum Acceptable values for this field are listed in the D_Horiz_Datum table.
+   - Text
+   - 30
+ * - V_DATUM
+   - R
+   - Vertical Datum. This is the vertical datum of the surveyed points. The vertical datum describes the reference surface from which elevation of the surveyed points is measured. Normally, this would be North American Vertical Datum of 1988 for new studies. Acceptable values for this field are listed in the D_V_Datum table.
+   - Text
+   - 17
