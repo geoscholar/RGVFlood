@@ -54,7 +54,7 @@ Site
    - Description of the structure or feature being surveyed, for example “Cross Section 2”. STRUCTDESC corresponds to the Structure Description field in the Data Capture Technical Reference.
    - Text
    - 254
-  * - Latitude
+ * - Latitude
    - R
    - Latitude location of the survey point, in the horizontial datum.
    - Double
