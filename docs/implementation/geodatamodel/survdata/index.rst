@@ -1,4 +1,4 @@
-Geospatial Data Model Standards
+Surveying Data Model Standards
 ====================================
 
 The various elements such as Station Benchmark, Station Site Survey, Hydrological Cross Section, etc, shall be collected using the Geospatial Data Model Standards. The data associated with the polyline elements shall be as indicated below for the respective elements constructed, with the date of installation, (month and year) being provided for all new work materials. 
