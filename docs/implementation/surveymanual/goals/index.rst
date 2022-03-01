@@ -18,7 +18,7 @@ Information contained in this Survey Manual is has been adopted from industry st
     - `Levels at Gaging Stations <https://pubs.er.usgs.gov/publication/tm3A19>`_
     - Operational procedures at U.S. Geological Survey gaging stations include periodic leveling checks. 
   * - FEMA
-    - `Data Caputure Tehnical Reference 2/2019 <https://www.fema.gov/sites/default/files/2020-02/Data_Capture_Technical_Reference_Feb_2019.pdf>`_
+    - `Data Caputure Technical Reference 2/2019 <https://www.fema.gov/sites/default/files/2020-02/Data_Capture_Technical_Reference_Feb_2019.pdf>`_
     - Provides a framework for submittal, storage and retrieval of the technical data.
   * - FEMA
     - `FIRM Database Technical Reference 2/2019 <https://www.fema.gov/sites/default/files/2020-02/FIRM_Database_Technical_Reference_Feb_2019.pdf>`_
